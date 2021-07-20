@@ -1,0 +1,12 @@
+<h1 class="code-line" data-line-start="0" data-line-end="1">Context Map</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART_Goals_are_used_to_clearly_and_consicley_define_multiple_factors_of_the_goals_want_you_to_acheive_1"></a>Context Maps are a rapid creativity &amp; analysis tool that enables you to lead a collaborative conversation.</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Context Maps are a tool to be used early in the challenge process. This tool has very low overhead, allowing teams to have relevent conversations with a broad scope, spuring problem landscape analysis and creativity.</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Here are the steps to the process:</p>
+<ol>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Bring your team together and ask them to name the eight most significant features of the problem, as it's initially understood.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">When a team member names a significant feature,ask the other members to expand on that idea. Write a feature in one of the petals, and feel free to make notes around the petal.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">As the person with the pen, consider asking another team member to jump on,grab the pen from you, and acy as the procovateur and recorder.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">When you hear a team member toss out a feature, for example, 'Cost!,' help the team discuss various aspects of the issue being captured. "Do you mean price? The cost to us or to the customers? Do we measure this with time or money?" Make notes around the petal and be willing to cross out the first version you wrote and replace it.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Finish filling in the petals. If it doesn't look "right," do another!</li>
+</ol>
+<p>Expert Edition - While brainstorms can often head down rabbit holes (where a team chases small details around one topic), setting the initial goal to capture "the eight most significant features" often leads to a team completing the petals quickly. You can then focus on details or build a 2nd map to iterate.</p>

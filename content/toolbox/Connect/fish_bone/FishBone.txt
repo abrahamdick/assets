@@ -1,0 +1,17 @@
+<h1 class="code-line" data-line-start="0" data-line-end="1">Fish Bone Diagram</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART_Goals_are_used_to_clearly_and_consicley_define_multiple_factors_of_the_goals_want_you_to_acheive_1"></a>The Fish Bone Diagram is a tool that is designed to identify causes. A root cause analysis is a key tool for identifying reasons for the problem selected.</h2>
+<ul>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p class="has-line-data" data-line-start="2" data-line-end="3">The Fish Bone Diagram is a tool that helps students define causes<br />contributing to the problem. Pioneered by the Kawasaki company in<br />Japan during the 1960s, each branch of the diagram defines a<br />category while the lines pointing to the branch define individual<br />problem contributors. This tool is scalable and allows students to<br />add as many contributors and branches as needed. Students start<br />the process by asking "why?". Each answer identified is a potential<br />contributor to the problem.</p>
+</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>Classically the six branches are aimed towards industrial manufacturing practices, however a root cause analysis is very important and versitile. The classic six are materials, measurements, machining, methods, enviroments, and employees.</p>
+</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>Teams should use this tool to identify all the factors which lead to the current problem landscape. Once you understand why the situation exists you can work to solve it!</p>
+</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>The main goal or problem is written in the box on the right, and each rib bone is filled in with over arching contributors. Within each contributor specific factors are identified, this breaks the messy landscape down into smaller digestible, and more importantly, actionable pieces.</p>
+</li>
+</ul>
+<p class="has-line-data" data-line-start="20" data-line-end="21">[WorkSheet Download] (C:Tool Box Worksheets\Connect\fish bone\fish-bone-3x.jpg)</p>

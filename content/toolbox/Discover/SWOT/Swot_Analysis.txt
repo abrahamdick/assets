@@ -1,0 +1,61 @@
+<h1 class="code-line" data-line-start="0" data-line-end="1">S.W.O.T Analysis</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART_Goals_are_used_to_clearly_and_consicley_define_multiple_factors_of_the_goals_want_you_to_acheive_1"></a>The S.W.O.T Analysis tool is used to identify internal and external factors that impact the problem landscape</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">S.W.O.T. stands for strengths, weaknesses, oppurtunies, and threats. The first two are primarily targeted towards internal factors and the last two towards external factors.</p>
+<h4 class="code-line" data-line-start="4" data-line-end="5"><a id="Specific_4"></a>Strengths</h4>
+<ul>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>Strengths are things that your organization does well, or in a unique way. Think about the advantages your ideas have over others. These might be your passions, uniques access opportunities or effective ideas for controls.</p>
+</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>Your strengths are an important part of your ideas. Why is your better than anyone elses? What values drive your thinking? What unique or lowest-cost advantages can you draw upon that others can't?</p>
+</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>Then turn your perspective around and ask yourself what your peers might see as your strengths. What factors mean that your idea is more impactful than theirs?</p>
+</li>
+<li class="has-line-data" data-line-start="5" data-line-end="7">
+<p>Remember, any aspect of your idea is only a strength if it brings you a clear advantage. For example, if others provide high-quality ideas, then a high-quality process is not a strength, it's a necessity.</p>
+</li>
+</ul>
+<h4 class="code-line" data-line-start="7" data-line-end="8"><a id="Measurable_7"></a>Weaknesses</h4>
+<ul>
+<li class="has-line-data" data-line-start="8" data-line-end="10">
+<p>Now it's time to consider your plan's weaknesses. A SWOT Analysis will only be valuable if you gather all the information you need. It's best to be realistic now, and face any unpleasant truths as soon as possible.</p>
+</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">
+<p>Weaknesses, like strengths, are internal factors contributing towards your ideas, so focus on your people, resources, systems, and procedures. Think about what you could improve.</p>
+</li>
+<li class="has-line-data" data-line-start="8" data-line-end="10">
+<p>How do other people in this space see your idea? Do they notice factors that you do not? Take time to examine how and why your peers are doing things differently than you. What are you lacking?</p>
+</li>
+</ul>
+<h4 class="code-line" data-line-start="10" data-line-end="11"><a id="Acheivable_10"></a>Opportunities</h4>
+<ul>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Opportunities are external causes for something positive to happen, but you'll need to take advantange of them!</p>
+</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Opportunities usually arise from external factors, and require perspective to what might happen in the future. They might arise as developments in the problem landscape you selected, or in technology. Being able to identify and exploit opportunities can make an impact in your idea's ability to be competitive.</p>
+</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Think about good opportunities that are obvious. These don't need to be game-changers, even small advantages can increase your competitiveness. What interesting trends are you aware of that could have an impact?</p>
+</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>You should also watch out for changes in government policy, changes in social patterns, population profiles, and lifestyles. All of these have the potential to be opportunities.</p>
+</li>
+</ul>
+<h4 class="code-line" data-line-start="13" data-line-end="14"><a id="Relevent_13"></a>Threats</h4>
+<ul>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Threats include anything external that can negatively impact your ideas, such as supply chain innovations, changes in landscape, or a shortage of man power. It's vital to anticipate threats and to take action against them before you become a victim of them.</p>
+</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Think about the obstacles you face in getting your ideas to market. You may notice that quality standards for your plans are changing, and that you'll need to change if you're to stay in the lead. Evolving technology can be seen as an ever-present threat, and an opportunity!</p>
+</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Always consider what your competitors are doing, and whether you should be adapting to meet the challenge. But remember that what they're doing might not be the best for you to do, and avoid copying them without anticipating all the outcomes.</p>
+</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">
+<p>Be sure to explore whether your idea is particularly exposed to external problems. These could be the kind of threat that can seriously damage your business, so be alert.</p>
+</li>
+</ul>
+<p class="has-line-data" data-line-start="20" data-line-end="21">[WorkSheet Download] (C:\Tool Box Worksheets\Discover\SWOT\swot-3x.jpg)</p>

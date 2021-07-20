@@ -1,0 +1,10 @@
+<h1 class="code-line" data-line-start="0" data-line-end="1">Progression Curves</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART"></a>Progression Curves provide a framework for discussing and analyzing the changes in your problem space.</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Here are the steps to the process:</p>
+<ol>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Starting with what your team percieves are the most important features of your problem, ask them to choose one that seems to be changing the most rapidly.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Write the name of this rapidly changing feature on one of the curves. Then ask your team to begin discussing what's been changing, adding notes to the curve. Questions include: "What are major products released in this space?"&nbsp; "When was our customer on the cover of that magazine?"&nbsp; "When did that company hit their big adoption milestone?"</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">During discussion of the changes on your first curve it's inevitable you'll begin to take the feature apart. "Sure, the iPhone was important, but let's not forget how iTunes gave the iPod a critical feature... and Apple wasn't the first there!" Draw a 2nd line nearby the first and begin capturing the change in that space.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">When the dialogue slows, pick another major feature and build another curve! Try capturing all of the major features in your problem space on the map!</li>
+</ol>
+<p>Expert Edition - Create a wall-sized version of the change map (try starting on a wall using butcher paper to save time!) and place it in the center of your team space. You'll be amazed at how it created an ongoing dialogue - "I just read an article we need to place on our map!"</p>

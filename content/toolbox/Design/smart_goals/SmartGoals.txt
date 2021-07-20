@@ -1,0 +1,36 @@
+<div id="editor1" class="g-b g-b--t1of2 split split-editor" style="height: 1414px;">
+<div id="editor" class="ui-resizable-e ace_editor ace-tm" style="height: 1400px;" draggable="false">
+<div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: hidden;">
+<div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font: inherit; overflow: visible;"></div>
+<div style="height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space: pre; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; font-size-adjust: inherit; font-kerning: inherit; font-optical-sizing: inherit; font-language-override: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow: visible;"></div>
+</div>
+</div>
+</div>
+<div id="preview1" class="g-b g-b--t1of2 split split-preview" style="height: 1414px;">
+<div id="preview" class="preview-html" preview="" debounce="150">
+<h1 class="code-line" data-line-start="0" data-line-end="1"><a id="SMART_Goals_0"></a>S.M.A.R.T. Goals</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART_Goals_are_used_to_clearly_and_consicley_define_multiple_factors_of_the_goals_want_you_to_acheive_1"></a>S.M.A.R.T. Goals are used to clearly and consicley define multiple factors of the goals want you to acheive.</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">S.M.A.R.T. stands for Specific, Measurable, Acheivable, Relevent, and Time-Based</p>
+<h4 class="code-line" data-line-start="4" data-line-end="5"><a id="Specific_4"></a>Specific</h4>
+<ul>
+<li class="has-line-data" data-line-start="5" data-line-end="7">A concise target ensures that you remain working to solve the right problem. The goal must be clearly defined and tailored towards the teams desires.</li>
+</ul>
+<h4 class="code-line" data-line-start="7" data-line-end="8"><a id="Measurable_7"></a>Measurable</h4>
+<ul>
+<li class="has-line-data" data-line-start="8" data-line-end="10">The goal must be able to be qualified for success. The measurable aspect can be applied for either a quantiative or qualitatve or both. The results must be assesed to provide controls on goal outcomes.</li>
+</ul>
+<h4 class="code-line" data-line-start="10" data-line-end="11"><a id="Acheivable_10"></a>Acheivable</h4>
+<ul>
+<li class="has-line-data" data-line-start="11" data-line-end="13">An acheivable goal is a feasible task, this means that the scope of the goal is within reach. The goal must be reachable on a reasonable budget and a resonable amount of work as to accomplished in an acceptable amount of time.</li>
+</ul>
+<h4 class="code-line" data-line-start="13" data-line-end="14"><a id="Relevent_13"></a>Relevent</h4>
+<ul>
+<li class="has-line-data" data-line-start="14" data-line-end="16">The relevency of a goal is key for targeting the goal you actually want to solve. Working with previous root cause analysis tools, the primary factors of your goals can be targeted. This factor ensures your goals are directly solving the desired problem.</li>
+</ul>
+<h4 class="code-line" data-line-start="16" data-line-end="17"><a id="TimeBased_16"></a>Time-Based</h4>
+<ul>
+<li class="has-line-data" data-line-start="17" data-line-end="18">Time is always as important factor with setting goals. Using tools similar to the GANTT chart, program management aspects are brought into play. Ideally this aspect will come with several control measures for the total time alloted. You can build out important completion deadlines through out the process of reaching your goal.</li>
+</ul>
+<p class="has-line-data" data-line-start="20" data-line-end="21">[WorkSheet Download] (C:\Tool-Box-Worksheets\Design\smart-goals\smart-goals-3x.jpg)</p>
+</div>
+</div>

@@ -1,0 +1,32 @@
+<h1 class="code-line" data-line-start="0" data-line-end="1">Empathy Map</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART_Goals_are_used_to_clearly_and_consicley_define_multiple_factors_of_the_goals_want_you_to_acheive_1"></a>The empathy map is a key starting point in design thinking practices. Gaining the perspective of your future uses.</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">The best solutions are tailored to your future uses. Driving empathy and putting yourselves in the future user's shoes is imperative to designing products and programs that will drive functionallity and participation. The future user is an idea developed as the product of a process. Your future user is a person that already exists that does not yet know they need your ideas to improve their life. Having a well defined audience ensures that these people will be driven to use and enjoy your future programs and ideas.</p>
+<p>&nbsp;</p>
+<p>The <em><strong>Says</strong></em> area contains what the audience speaks out loud in a public manor. Ideally, it contains direct quotes from research or survey responses.</p>
+<ul>
+<li><em>&ldquo;I am allegiant to this company because I never have a bad experience.&rdquo;</em></li>
+<li><em>&ldquo;I want something that won't break and last a long time.&rdquo;</em></li>
+<li><em>&ldquo;I am lost one how to momve on and what my next step should be.&rdquo;</em></li>
+</ul>
+<p>&nbsp;</p>
+<p>The <em><strong>Thinks area</strong></em> captures what the audience is wondering about during the experience. Ask yourself: what occupies the user&rsquo;s attention? What is important to the user? Pay special attention to what audience members think, but may not be willing to say. Understand why they are hesitant to share &mdash; are they unsure, self-conscious, or afraid to speak their mind to others?</p>
+<ul>
+<li><em>&ldquo;This is not what I think I should be doing.&rdquo;</em></li>
+<li><em>&ldquo;Why can I not catch on to this seemingly simple concept?&rdquo;</em></li>
+</ul>
+<p>&nbsp;</p>
+<p>The <em><strong>Does</strong></em> area pertains to the actions the audience takes. What does the audience physically do? How does the audience go about doing it?</p>
+<ul>
+<li><em>How do they choose to participate?</em></li>
+<li><em>What are the actions which participation entails?<br /></em></li>
+</ul>
+<p>&nbsp;</p>
+<p>The <em><strong>Feels</strong></em> area is the audiences&rsquo;s emotions, often represented as an adjective plus a short sentence. Ask yourself: what worries the audience? What does the audience get excited about?</p>
+<ul>
+<li><em>Impatient: this is taking too long<br /></em></li>
+<li><em>Confused: How do I know that I am doing this the right way<br /></em></li>
+<li><em>Worried: What are the ramifications of my decisions?<br /></em></li>
+</ul>
+<p>&nbsp;</p>
+<p>Humans are complicated, its beneificial to see challenges between quadrants. You will encounter differences, positive actions but negative emotions coming from the same person.&nbsp; This is when empathy maps become the most useful for uncovering points of understanding about your audience. It is your job to investigate the root cause of the conflict and resolve it.</p>
+<p>Some of these areas may seem openended, it may be difficult to seperate between <em>Thinks</em> and <em>Feels</em>. Do not focus on precision, attempt to keep factors in the single area that it pertains most to. The 4 areas exist only to push our knowledge ensuring you do not miss any important dimension. User research is the driving factor for all the imformation you consider. It is completly recommended to full out multiple emapthy maps for different demographics of your audience.</p>

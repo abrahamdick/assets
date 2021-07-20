@@ -1,0 +1,11 @@
+<h1 class="code-line" data-line-start="0" data-line-end="1">Generational Arcs</h1>
+<h2 class="code-line" data-line-start="1" data-line-end="2"><a id="SMART"></a>Generational Arcs help you track, analyze and discover market changes, including potential disruptions.</h2>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Here are the steps to the process:</p>
+<ol>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Select a region - city, state, country, region - the houses or customer base, current or one we're considering entering.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Find a credible source of population records to draw a demographic curve. Shade in the three phases of life.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Map the generations using the language and timing specific to the region. Mainstream newspapers are good sources.</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">Begin capturing the values, beliefs and attitudes that each generation share. What historic events changed their lives? What products were new to their generation? How are they perceived in comparison to the other generations?</li>
+<li class="has-line-data" data-line-start="2" data-line-end="3">For our customers, current or potential, ask: "What phase of life are they entering next and what changes are they likelt to make as they enter this next phase?"&nbsp; "How are they different that the prior generation based on personal history and the technologies they grew up with?"&nbsp; "Looking at our existing customers, are we seeing a rise in potential customers? Is our market instead shrinking?"&nbsp; "If we target an again market, how can we learn more about addressing the needs of customers as they age?"</li>
+</ol>
+<p>Expert Edition - How can we begin tracking new information we collect on this potential market? Where can we find expert opinions or insights into the changes occuring in the potential market? Turning to existing or perceived customers, where do they fit in the potential market we've captured?</p>
